@@ -27,7 +27,7 @@ namespace TestApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Yo!");
+            MessageBox.Show("Yo, Mang!");
         }
     }
 }
