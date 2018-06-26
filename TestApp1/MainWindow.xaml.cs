@@ -28,6 +28,8 @@ namespace TestApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Yo, Mang!");
+
+            MessageBox.Show("Yet another yo yo!");
         }
     }
 }
