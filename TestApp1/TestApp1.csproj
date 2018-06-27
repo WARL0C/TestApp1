@@ -71,6 +71,7 @@
     <Compile Include="NewClass1.cs" />
     <Compile Include="NewClass2.cs" />
     <Compile Include="NewClass3.cs" />
+    <Compile Include="NewClass4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
