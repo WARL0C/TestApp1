@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class NewClass2
+    public class NewClass3
     {
-        public string Prop2 { get; set; }
-
-        public string Prop69 { get; set; }
+        public int IntProp1 { get; set; }
     }
 }
