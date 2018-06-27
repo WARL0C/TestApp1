@@ -10,6 +10,6 @@ namespace TestApp1
     {
         public string Prop2 { get; set; }
 
-        public string Prop3 { get; set; }
+        public string Prop69 { get; set; }
     }
 }
