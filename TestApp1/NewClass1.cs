@@ -9,5 +9,12 @@ namespace TestApp1
     public class NewClass1
     {
         public string Prop1 { get; set; }
-    }
+
+        public int wtf { get; set; }
+
+        void CalculateWTF()
+        {
+
+        }
+    }    
 }
