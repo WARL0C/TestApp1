@@ -12,7 +12,8 @@ namespace TestApp1
         
         void MyIssueMethod()
         {
-
+            NewClassGittyUpHub ncguh = new NewClassGittyUpHub();
+            ncguh.aintThisSumShitYo = false;
         }
     }
 }
