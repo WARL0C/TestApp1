@@ -9,5 +9,10 @@ namespace TestApp1
     public class NewClass4
     {
         public string Blah { get; set; }
+        
+        void MyIssueMethod()
+        {
+
+        }
     }
 }
