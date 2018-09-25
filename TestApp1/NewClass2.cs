@@ -13,5 +13,7 @@ namespace TestApp1
         public string Prop69 { get; set; }
 
         public string ViolaItsFixed { get; set; }
+
+        public string CestCiBon { get; set; }
     }
 }
