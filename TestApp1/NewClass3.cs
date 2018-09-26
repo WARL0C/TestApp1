@@ -11,5 +11,7 @@ namespace TestApp1
         public int IntProp1 { get; set; }
 
         public bool CestCiBon { get; set; }
+
+        public bool blowMe { get; set; }
     }
 }
