@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class FakeHub
+    public class FakeHub2
     {
-        public bool isAllowed { get; set; }
-
-        public string wtf { get; set; }
+        public string prop1 { get; set; }
+        public int prop2 { get; set; }
     }
 }
