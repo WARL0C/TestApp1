@@ -16,5 +16,7 @@ namespace TestApp1
         {
 
         }
+
+        public object OMFG { get; set; }
     }    
 }
