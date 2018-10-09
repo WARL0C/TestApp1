@@ -17,6 +17,11 @@ namespace TestApp1
 
         }
 
+        void CalcThis()
+        {
+
+        }
+
         public object OMFG { get; set; }
     }    
 }
