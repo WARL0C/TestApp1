@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class FUCKINGWORK
+    public class Commit1Class
     {
-        public bool doYouOtamatone { get; set; }
+        public string test1 { get; set; }
     }
 }
