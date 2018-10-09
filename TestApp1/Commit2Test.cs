@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class FakeHub2
+    public class Commit2Test
     {
-        public string prop1 { get; set; }
-        public int prop2 { get; set; }
-
-        public bool asdfsadf { get; set; }
+        public bool blah { get; set; }
     }
 }

@@ -63,6 +63,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Commit1Class.cs" />
+    <Compile Include="Commit2Test.cs" />
     <Compile Include="FakeHub2.cs" />
     <Compile Include="GitHubSucksHelix.cs" />
     <Compile Include="MainWindow.xaml.cs">
