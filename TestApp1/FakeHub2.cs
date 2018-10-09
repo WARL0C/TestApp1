@@ -12,5 +12,7 @@ namespace TestApp1
         public int prop2 { get; set; }
 
         public bool asdfsadf { get; set; }
+
+        public string asdfllkj34 { get; set; }
     }
 }

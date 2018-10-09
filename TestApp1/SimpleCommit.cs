@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class GitHubSucksHelix
+    public class SimpleCommit
     {
-        public string asdlasdf { get; set; }
-
-        public string yomamma { get; set; }
+        public string testieTest { get; set; }
     }
 }

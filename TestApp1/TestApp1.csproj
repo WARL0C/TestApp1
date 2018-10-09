@@ -54,6 +54,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="SimpleCommit.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -65,7 +66,6 @@
     <Compile Include="Commit1Class.cs" />
     <Compile Include="Commit2Test.cs" />
     <Compile Include="FakeHub2.cs" />
-    <Compile Include="GitHubSucksHelix.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
