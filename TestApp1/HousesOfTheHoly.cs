@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestApp1
 {
-    public class SimpleCommit
+    public class HousesOfTheHoly
     {
-        public string testieTest { get; set; }
-
-        public string effOff { get; set; }
+        public string rockOn { get; set; }
     }
 }
