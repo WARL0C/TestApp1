@@ -11,12 +11,8 @@ jobs:
   alert:
     if: ${{ !github.event.issue.pull_request }}
     runs-on: ubuntu-latest
-    steps:
-     - uses: actions/checkout@v4
-     - uses: actions/setup-node@v4
-       with:
-         node-version: 20
-     - uses: danhellem/github-actions-issue-to-work-item@master
+    steps:     
+     - uses: danhellem/github-actions-issue-to-work-item@v2.2
        env:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
